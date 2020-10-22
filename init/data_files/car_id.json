@@ -1,0 +1,47 @@
+{
+  "101": {
+    "car_brand": "Toyota",
+    "car_name": "Prius",
+    "base_fare": "100"
+  },
+  "102": {
+    "car_brand": "Honda",
+    "car_name": "Civic",
+    "base_fare": "80"
+  },
+  "103": {
+    "car_brand": "Toyota",
+    "car_name": "Camry",
+    "base_fare": "90"
+  },
+  "104": {
+    "car_brand": "Toyota",
+    "car_name": "Highlander Hybrid",
+    "base_fare": "150"
+  },
+  "105": {
+    "car_brand": "Chevrolet",
+    "car_name": "Suburban",
+    "base_fare": "100"
+  },
+  "106": {
+    "car_brand": "Ford",
+    "car_name": "Fusion",
+    "base_fare": "110"
+  },
+  "107": {
+    "car_brand": "Nissan",
+    "car_name": "Rogue",
+    "base_fare": "150"
+  },
+  "108": {
+    "car_brand": "Renault",
+    "car_name": "Kwid",
+    "base_fare": "80"
+  },
+  "109": {
+    "car_brand": "Maruti Suzuki",
+    "car_name": "Swift",
+    "base_fare": "50"
+  }
+}
