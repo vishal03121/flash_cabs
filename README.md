@@ -6,7 +6,7 @@ Project Number: 9
 
 Title: Cab Booking System
 
-Group Memebers: 3
+Group Members: 3
 
 1: Vishal Goyal, 11902126, RK19PGA10
 
