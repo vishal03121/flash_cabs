@@ -1012,7 +1012,7 @@ You'll be redirected to Log In""")
                 "name": sign_up_screen_items[7].get(),
                 "email": sign_up_screen_items[8].get(),
                 "password": sign_up_screen_items[9].get(),
-                "booking": []
+                "booking": {}
             }
             write_users()
             # redirecting to login screen
