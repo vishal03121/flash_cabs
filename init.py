@@ -984,7 +984,7 @@ def send_otp(original_otp, receiver_mail, mail_option):
     # atarting server connection
     server = smtplib.SMTP_SSL("smtp.gmail.com", 465)
     server.ehlo()
-    server.login("pythoncabproject@gmail.com", "Code@1234")
+    server.login("email", "password")
     # message options depending upon which email to sent
     msg_options = ["account generation", "Password Recovery", "Booking Cab", "Cancelling Cab"]
     mail_message = """Your OTP for {} is {}""".format(msg_options[mail_option], original_otp)
